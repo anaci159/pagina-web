@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(206, 76, 76);
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+}
+#titulo-principal{
+     color: #d4bfb9;
+     font-size: 36px;
+     text-align: center;
+}
+
+/* Subtitulos*/
+h2,h3 {
+     color: black;
+     margin-top: 20px;
+     
+}
+.poster {
+    display: block;
+    margin: 20px auto;
+    border: 3px solid #000 ;
+    border-radius: 10px;
+    width: 250px;
+}
+
+a{
+    color: #754e4e;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+footer{
+    background-color: aliceblue;
+    color: #000;
+    text-align: center;
+    padding: 10px;
+    margin-top: 30px;
+    border-radius: 8px;
+}
